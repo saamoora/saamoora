@@ -15,8 +15,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-![snake gif](https://github.com/saamoora/saamoora/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saamoora/saamoora/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saamoora/saamoora/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
 
           
 
