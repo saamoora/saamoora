@@ -15,6 +15,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+![snake gif](https://github.com/saamoora/saamoora/blob/output/github-contribution-grid-snake.svg)
+
 
           
 
